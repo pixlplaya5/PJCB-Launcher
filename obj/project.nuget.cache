@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Eg1SPKNH94=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\RiderProjects\\PJCBLauncher\\PJCBLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\system.codedom\\11.0.0\\system.codedom.11.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\system.management\\11.0.0\\system.management.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
